@@ -1,3 +1,1 @@
-# Stylicious-Web
-# Stylicious-Web
-# Stylicious-Web
+Stylicious serves as your go-to source for pro style guides and fashion tips tailored to you. Our carefully curated list of hair, fashion, and style guides show you just what you need to build your personal brand. With Stylicious, you can take your first steps to a more stylish you.
