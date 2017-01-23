@@ -1,1 +1,4 @@
-Stylicious serves as your go-to source for pro style guides and fashion tips tailored to you. Our carefully curated list of hair, fashion, and style guides show you just what you need to build your personal brand. With Stylicious, you can take your first steps to a more stylish you.
+Styliciousme.com
+A website designed for those who are genderqueer or transgendered who find the structure of tradition men's and women's departments limiting to their identity.
+A project during SwampHack2017.
+Hosted on Lindoe.
